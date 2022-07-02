@@ -7,7 +7,7 @@ For example: radar or madam
 
 Our task is to design an optimal algorithm for checking whether a given string is palindrome or not! 
 
-Time: O(N) where n is the number of characters in the word
+Time: O(N) where n is the number of characters in the word.
 
 """
 
