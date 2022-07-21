@@ -85,7 +85,7 @@ class LinkedList:
         self.size -=1 
 
     def removeAtPos(self, pos):
-        if (pos> self.size-1 or self.size ==0 ):
+        if (pos> self.size-1  or self.size ==0 ):
             return
 
         if(pos==0):
